@@ -9,14 +9,12 @@ pygmentsUseClasses = true
 
 [params]
   author = "e99h2121"
-  description = "In solitude, where we are least alone."
+  description = "Where there is a null, there is no way."
   github = "e99h2121"
-  facebook = "yamada_n"
   twitter = "e99h2121"
-  linkedin = "e99h2121"
   instagram = "e99h2121"
   tumblr = "e99h2121"
-  url = "https://e99h2121.github.io/blog-hugo/"
+  url = "https://e99h2121.github.io/"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
