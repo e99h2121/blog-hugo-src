@@ -111,4 +111,20 @@ https://yonehub.y10e.com/2019/10/22/20191022_hugo_githubio/
 `hugo -t github-style` で公開ファイルを生成
 
 
+`cd C:\git\blog-hugo-src\InitialSites>`
+
+```
+C:\git\blog-hugo-src\InitialSites>hugo new post/newpost202106091417.md
+C:\git\blog-hugo-src\InitialSites\content\post\newpost202106091417.md created
+```
+
+hugo server -t github-style -D -w
+
+で動作確認
+
+hugo -t github-style
+
+で生成
+
+Docs 以下を GitHubPages化しているリポジトリにコピーし公開。
 
