@@ -3,12 +3,12 @@ publishDir = "docs"
 languageCode = "ja-ja"
 title = "e99h2121's New Hugo Site"
 theme = "github-style"
-googleAnalytics = "UA-123456-789"
+googleAnalytics = "UA-119695202-4"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "e99h2121"
+  author = "yamada_n"
   description = "Where there is a null, there is no way."
   github = "e99h2121"
   twitter = "e99h2121"
@@ -22,7 +22,7 @@ pygmentsUseClasses = true
 
   [[params.links]]
     title = "Link"
-    href = "https://github.com/e99h2121"
+    href = "https://e99h2121.github.io/"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
