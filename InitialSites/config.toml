@@ -3,7 +3,7 @@ publishDir = "docs"
 languageCode = "ja-ja"
 title = "yamada_n's blog"
 theme = "github-style"
-googleAnalytics = "G-GDXTY41XGN"
+googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
