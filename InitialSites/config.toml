@@ -1,9 +1,9 @@
 baseURL = "https://e99h2121.github.io/blog-hugo/"
 publishDir = "docs"
 languageCode = "ja-ja"
-title = "e99h2121's New Hugo Site"
+title = "yamada_n's blog"
 theme = "github-style"
-googleAnalytics = "UA-119695202-4"
+googleAnalytics = "G-GDXTY41XGN"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
   instagram = "e99h2121"
   tumblr = "e99h2121"
   url = "https://e99h2121.github.io/"
-  keywords = "blog, google analytics"
+  keywords = "blog"
   rss = true
   lastmod = true
   location = "Japan"
